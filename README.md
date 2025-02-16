@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Personalized Recipe Generation and Food Calorie Estimation for Sustainable and Equitable Nutrition Using Deep Learning<br>📊 Incremental Learning for Image Classification using MobileNetV3<br>🤖 AI & ML Enthusiast <br>🎓 AI/ML Club Head at ISA Club <br>  
+🤖 AI & ML Enthusiast <br>🎓 AI/ML Club Head at ISA Club <br>  
 
 
 ## 🌐 Socials:
